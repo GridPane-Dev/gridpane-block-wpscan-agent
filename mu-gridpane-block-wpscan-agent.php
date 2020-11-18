@@ -8,9 +8,9 @@
  * @license         GNU-2.0+
  *
  * @wordpress-plugin
- * Plugin Name:     GridPane Disable XMLRPC
+ * Plugin Name:     GridPane Block Wpscan Agent
  * Plugin URI:      https://gitlab.gridpane.net/gp-public/block-wpscan-agent
- * Description:     Disable XMLRPC to mitigate DDoS
+ * Description:     Block Wpscan Agent
  * Version:         0.1.0
  * Author:          Jeff Cleverley
  * Author URI:      https://gitlab.gridpane.net/jeff
